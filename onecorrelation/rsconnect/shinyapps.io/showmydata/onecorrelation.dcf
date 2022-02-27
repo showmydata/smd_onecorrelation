@@ -1,0 +1,11 @@
+name: onecorrelation
+title:
+username:
+account: showmydata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 625913
+bundleId: 5622422
+url: https://showmydata.shinyapps.io/onecorrelation/
+when: 1645961514.26631
+lastSyncTime: 1645961514.26632
