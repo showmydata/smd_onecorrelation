@@ -39,9 +39,11 @@ shiny::runGitHub(
 
 ## Download the source code
 
-```r
-shiny::runApp("onecorrelation")
-```
+To download the source code from GitHub:
+
+1. Click the green **Code** button near the top of this repository.
+2. Choose **Download ZIP**.
+3. Unzip the downloaded folder.
 
 ---
 
