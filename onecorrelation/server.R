@@ -7,17 +7,16 @@ library(stringr)
 library(psych)
 library(readr)
 library(MASS)
-#library(psychometric)
+library(gsheet)
+
 source("functions/equate_zscored_axis_ranges.R") 
 source("functions/perc_rank.R") 
 source("functions/jitter_by_percent_min_wn2.R") 
 source("functions/process_label.R")
-
 source("functions/make_url.R") 
 source("functions/parse_url.R") 
 source("functions/add_data_link_to_url.R")
 source("functions/get_data_from_url.R")
-library("gsheet")
 
 shinyServer(  # Initiate the shiny server
 function(input, output, session) { # Create the function -- added 'session' for URL project 3/22/24

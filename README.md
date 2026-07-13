@@ -21,9 +21,13 @@ This application creates highly customizable scatterplots for examining the rela
 ```r
 install.packages(c(
   "shiny",
-  "tidyverse",
-  "ggridges",
-  "ggthemes"
+  "stringr",
+  "psych",
+  "readr",
+  "MASS",
+  "gsheet",
+  "colourpicker",
+  "rclipboard"
 ))
 ```
 

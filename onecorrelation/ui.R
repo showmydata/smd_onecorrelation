@@ -3,7 +3,7 @@
 # Load libraries
 library(shiny)
 library(colourpicker)
-library("rclipboard") # added for URL project 3/22/24
+library(rclipboard) # added for URL project 3/22/24
 
 # Begin UI function (everything below is within this function)
 shinyUI(fluidPage(
